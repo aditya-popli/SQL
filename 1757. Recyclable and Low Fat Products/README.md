@@ -51,3 +51,10 @@ Return the result table in **any order**.
 | 3          |
 
 ---
+
+## ✅ Solution
+
+```sql
+SELECT product_id
+FROM Products
+WHERE low_fats = 'Y' AND recyclable = 'Y';
