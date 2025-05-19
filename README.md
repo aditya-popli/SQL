@@ -10,7 +10,26 @@ Whether you're preparing for interviews or sharpening your SQL skills, this coll
 
 ---
 
-## 📁 Repository Structure
+## 📚 Topics Covered
 
-Each problem is placed in a separate folder following the structure:
+This collection spans the most important SQL concepts:
+
+- ✅ Basic `SELECT` statements
+- 🔍 Filtering with `WHERE`
+- 🧮 Aggregate Functions (`COUNT`, `SUM`, `AVG`, etc.)
+- 👯 GROUP BY and HAVING
+- 🔗 JOINs: `INNER`, `LEFT`, `RIGHT`, `SELF`
+- 📌 Subqueries & Common Table Expressions (CTEs)
+- 🪟 Window Functions (`RANK`, `ROW_NUMBER`, `DENSE_RANK`, etc.)
+- 🔄 Set Operations (`UNION`, `INTERSECT`, `EXCEPT`)
+- 🧠 Real-world business case queries
+
+---
+
+## 🚀 How to Use
+
+1. Navigate to the problem folder.
+2. Read the `README.md` to understand the problem and solution logic.
+3. Open `solution.sql` to review the implementation.
+4. Try running the query in your own SQL environment or on LeetCode.
 
