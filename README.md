@@ -3,10 +3,12 @@
 Welcome to the **LeetCode SQL 50** repository!
 
 This repository contains solutions to the **top 50 SQL problems on LeetCode**, each with:
-- ✅ A **solution** in SQL (`solution.sql`)
-- 📘 A **README.md** combining the problem statement and an explanation of the approach
+- 📘 A single `README.md` that includes:
+  - The **problem statement**
+  - A **detailed explanation**
+  - The **SQL solution**
 
-Whether you're preparing for interviews or sharpening your SQL skills, this collection has you covered.
+Whether you're preparing for interviews or just brushing up on SQL, this repo is a compact and clean reference.
 
 ---
 
