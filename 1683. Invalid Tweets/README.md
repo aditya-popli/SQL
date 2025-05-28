@@ -55,6 +55,8 @@ Return the result in any order.
 
 ## 🧠 SQL Query
 
+---
+
 ```sql
 SELECT tweet_id
 FROM Tweets
