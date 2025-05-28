@@ -3,7 +3,6 @@
 **Difficulty:** Easy  
 **Topic:** SQL  
 **Companies:** Amazon, Bloomberg  
-**Premium Question:** 🔒
 
 ---
 
