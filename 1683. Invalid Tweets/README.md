@@ -2,7 +2,6 @@
 
 **Difficulty:** Easy  
 **Topic:** SQL  
-**Premium Question:** 🔒  
 
 ---
 
