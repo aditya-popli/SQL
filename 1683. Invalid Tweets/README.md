@@ -59,3 +59,4 @@ Return the result in any order.
 SELECT tweet_id
 FROM Tweets
 WHERE LENGTH(content) > 15;
+```
