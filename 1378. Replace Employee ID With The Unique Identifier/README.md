@@ -1,8 +1,7 @@
 # 👨‍💼 1378. Replace Employee ID With The Unique Identifier
 
 **Difficulty:** Easy  
-**Topic:** SQL  
-**Premium Question:** 🔒  
+**Topic:** SQL   
 
 ---
 
