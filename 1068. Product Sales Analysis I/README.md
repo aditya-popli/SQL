@@ -1,6 +1,6 @@
 # 🛒 1068. Product Sales Analysis I
 
-**Difficulty:** Easy  
+**Difficulty:** 
 
 ---
 
